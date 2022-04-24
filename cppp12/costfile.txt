@@ -1,0 +1,5 @@
+Description      Amount    Item number
+Pass_Go           200.00          135
+Reading_RR       50.00          136
+Connecticut      120.00          137
+Chance              25.00          138
